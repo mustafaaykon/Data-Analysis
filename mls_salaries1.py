@@ -30,7 +30,7 @@ dataset = pd.read_csv('/users/mustafaaliaykon/Downloads/mls-salaries-2017.csv')
 
 # def son_find(last_name):
 #     if "son" in last_name.lower():
-#         return True                                   => player who has 'son' in lastname
+#         return True                                   => players who have 'son' in their lastname
 #     return False
 
 # print(dataset[dataset["last_name"].apply(son_find)])
